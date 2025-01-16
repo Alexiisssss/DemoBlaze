@@ -77,16 +77,24 @@ mvn test
 
 ## Демонстрационные данные
 
+*Форма регистрации*
+
 ![форма регистрации](https://github.com/user-attachments/assets/219edb6a-9872-4d9c-a0ad-46d1f276fcf0)
 
+*Авторизованные данные*
 ![форма авторизация и форма главной страницы](https://github.com/user-attachments/assets/642c6fe5-8efa-4387-84f6-2d183032bfd6)
 
+*Добавление товара в корзину*
 ![Добавление товара в корзину](https://github.com/user-attachments/assets/8dde16d7-e811-4f66-9caf-f48ca88f2ee9)
 
+*корзина*
 ![корзина](https://github.com/user-attachments/assets/85c0fd28-e1f1-4080-aed8-60a5ab931657)
 
+*цена товара и общая цена заказа*
 ![цена товара и общая цена заказа](https://github.com/user-attachments/assets/da7a5119-2fad-4017-9628-ed5a48e431fc)
 
+*форма оформления заказа*
 ![форма оформления заказа](https://github.com/user-attachments/assets/c7021b50-b302-4684-a7a8-e598ab4190e2)
 
+*успешное создание заказа*
 ![создание заказа](https://github.com/user-attachments/assets/c2535362-c851-4f49-962e-56ea8bc2e1d0)
